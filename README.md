@@ -17,7 +17,7 @@ Credits should also go to the following team comprising of the below members who
 * Kevin Cho
 * Steve Safarowic
 
-## To try, please go to Heroku: http://never-eat-chicken-alone.herokuapp.com/
+## To try, please go to Heroku: http://never-eat-chicken-alone1.herokuapp.com/
 
 ## Trial accounts (usernames are case sensitive):
 
